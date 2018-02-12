@@ -38,6 +38,7 @@
         "drupal/console": "~1.0",
         "drupal/core": "~8.4",
         "drupal/search_api": "~1.0",
+        "drupal/smart_admin_theme": "1.x-dev",
         "drupal/swiftmailer": "~1.0",
         "drupal/token": "~1.0",
         "drupalcommerce/commerce_base": "dev-8.x-1.x",
