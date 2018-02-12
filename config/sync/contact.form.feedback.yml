@@ -1,0 +1,14 @@
+uuid: 9e153e06-b4f1-45c6-a6cd-dcceb339a999
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: c4zaT5cyPxuTXI6JOWt3qRtMvICT9tHB6d9a5VG-CmQ
+id: feedback
+label: 'Website feedback'
+recipients:
+  - commerce@commercetest.com
+reply: ''
+weight: 0
+message: null
+redirect: null

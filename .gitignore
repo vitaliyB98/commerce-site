@@ -1,0 +1,6 @@
+vendor
+web/modules/contrib
+web/themes/contrib
+.idea
+web/sites/default/files
+web/sites/default/settings.php

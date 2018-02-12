@@ -1,0 +1,14 @@
+uuid: db277312-c892-40b9-b09c-a84eab4b52fd
+name: Commerce
+mail: commerce@commercetest.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
